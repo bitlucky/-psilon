@@ -8,9 +8,8 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context){
     return MaterialApp(home: Scaffold(appBar: AppBar(title:Text("My First App "),),
-    body: Text("this is my default text"),
-    
+    body: Text("this is my default text, this is a source tree test app"),
+
     ),);
   }
 }
-
